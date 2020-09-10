@@ -1,10 +1,15 @@
 body{
+  background: url(https://d279m997dpfwgl.cloudfront.net/wp/2018/11/BoysfromNowhere-11.jpg);
+  background-size: 120%;
+  background-repeat: no-repeat;
   margin: 1%;
   text-align:center;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Metal Mania', cursive;;
   height: 90vh;
 }
 h1{
-  text-decoration: underline;
-  font-size: 40px;
+  font-size: 100px;
+  color: white;
+  text-shadow: grey;
+  text-emphasis-style: grey;
 }
